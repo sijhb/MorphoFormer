@@ -1,0 +1,6 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple
+Requirement already satisfied: requests in /root/miniconda3/lib/python3.10/site-packages (2.28.2)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /root/miniconda3/lib/python3.10/site-packages (from requests) (1.26.13)
+Requirement already satisfied: idna<4,>=2.5 in /root/miniconda3/lib/python3.10/site-packages (from requests) (3.4)
+Requirement already satisfied: certifi>=2017.4.17 in /root/miniconda3/lib/python3.10/site-packages (from requests) (2022.12.7)
+Requirement already satisfied: charset-normalizer<4,>=2 in /root/miniconda3/lib/python3.10/site-packages (from requests) (2.0.4)
